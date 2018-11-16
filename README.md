@@ -1,0 +1,2 @@
+# System-Definition-vs-Model-File-Compare-Tool
+Comparison tool to check the VeriStand System Definition file for all parameters in the specified Model Parameter file. During deployment, VeriStand will prompt that a parameter is missing or misspelled but doesn't provide you with parameter information. This tool will let you know what parameters are missing and what lines in the Model Parameter file have errors.
