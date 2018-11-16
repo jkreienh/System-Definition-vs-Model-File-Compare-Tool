@@ -1,0 +1,7 @@
+{delay/z-block/Order}	1.2
+{random/Amplitudeeeee}	1.2
+{random/Bias}	1.2
+{sinewave/Amplitude}	1.2
+{sinewave/Bias}	1.2
+{sinewave/Gain}	1.2
+{sinewave/Phase}	1.2
